@@ -1,0 +1,4 @@
+#Tue Mar 17 17:20:31 SGT 2020
+base.0=D\:\\RIS\\RIS Y2S3\\BAIT2073 Mobile Application Development\\Practical\\MAD_practical_5\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
